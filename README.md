@@ -1,6 +1,10 @@
 # rdsn
 Attention driven Reinforced Deep Summarization Network for Efficient Video Summarization
-"# VS-RDSN" 
+"# VS-RDSN Architecture Diagram" 
+<div align="center">
+  <img src="imgs/rdsnf.png" alt="Architecture Diagram" width="50%">
+</div>
+
 The main requirements are [pytorch](http://pytorch.org/) (`v0.4.0`) and python `2.7`. Some dependencies that may not be installed in your machine are [tabulate](https://pypi.org/project/tabulate/) and [h5py](https://github.com/h5py/h5py). Please install other missing dependencies.
 
 ## Get started
